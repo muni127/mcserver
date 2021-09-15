@@ -1,1 +1,1 @@
-.\scripts\ngrok tcp 25565
+.\scripts\ngrok tcp 25565 -region au
